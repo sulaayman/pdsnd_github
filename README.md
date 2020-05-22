@@ -16,5 +16,7 @@ Informations processed include:
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you to udacity for the course training.
+Github [straight forward documentation.]
+God.
 
