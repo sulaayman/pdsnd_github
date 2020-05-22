@@ -14,6 +14,8 @@ Informations processed include:
 
 ### Files used
 bikeshare.py
+*.csv files
+.gitignore
 
 ### Credits
 Thank you to udacity for the course training.
