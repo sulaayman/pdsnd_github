@@ -357,12 +357,17 @@ def main():
         trip_duration_stats(df)
         user_stats(df,city, fullname)
         raw_data(df)
-        
+
+#	This code is meant to save the output of the data analysis in to a file called output.txt
+#	{
 #         with open('output.txt', 'w') as f:
 #             print('Filename:', filename, file=f) 
 #         file = open("sample.txt","w")
 #         file.write(ri)
 #         file.close()
+#	}
+
+
         #customer satisfaction.
         satisfaction = input('\n {} are you satisfied with the data processed? Enter yes or no.\n'.format(fullname))
         if satisfaction.lower() != 'yes':
