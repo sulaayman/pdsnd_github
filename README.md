@@ -10,7 +10,7 @@ Informations processed include:
   1.  The most used stations
   2.  The most travelled day.
   3.  The averge trip time.
-  4.  The rush jour or time with most demand.
+  4.  The rush hour period or time with most demand.
 
 ### Files used
 bikeshare.py
